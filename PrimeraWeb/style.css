@@ -1,0 +1,10 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    text-align: center;
+    color: rgb(221, 236, 11);
+    background-color: gray;
+    font-style: italic;
+}
